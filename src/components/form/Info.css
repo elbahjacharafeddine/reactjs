@@ -1,0 +1,13 @@
+form{
+    margin-left: 2%;
+}
+fieldset{
+    width:90%;
+}
+h1{
+    text-align:center;
+}
+hr{
+    color:black;
+    border: 1px solid black;
+}
